@@ -1,0 +1,10 @@
+tf_env/
+venv/
+env/
+__pycache__/
+*.pyc
+*.h5
+*.keras
+*.pt
+*.ckpt
+.env
